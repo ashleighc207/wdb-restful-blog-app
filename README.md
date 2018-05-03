@@ -4,7 +4,7 @@
 A simple, RESTFul blog app allowing CRUD functionality
 
 ## How to Use
-Currently this simple blog app is not hosted anywhere. To test it out, clone to your local machine and run `node app.js` from the command line, then open the index.html file in your browser.
+Currently this simple blog app is not hosted anywhere. 
 
 ## Dependencies
 - Node.js
